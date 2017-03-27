@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/shashankmahajan/.android/build-cache/7ce0eb9e257392b4f4851bea457b04b16930b2a3/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="93c1199fcb0a34b980e6fff8350daff62e696ec2">
+        <dex dex="/Users/shashankmahajan/android/project/JavaDevelopersIndia/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d17707c4988b6cc06bf396a0637a03e7f0d50551/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shashankmahajan/.android/build-cache/4b9834bfe17eb42a553fc0463cdbac101b56664b/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5cc5ef8347a6bafa14556cbd35230aa9b3431bb0">
+        <dex dex="/Users/shashankmahajan/android/project/JavaDevelopersIndia/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_8b97ca296ead0e0ced810932e35417ec663786ba/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shashankmahajan/.android/build-cache/b6735fc9be4dea65860764abe12ef0ef0dd866a8/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="518768f3200963fbfec652f498da2c9d39245234">
+        <dex dex="/Users/shashankmahajan/android/project/JavaDevelopersIndia/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d450b24dab35d6b7a536c943a6da97ef46fdeaed/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shashankmahajan/.android/build-cache/18a371efcad9bf09d970d06b3e1dd0c819e57aef/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c5d103b270b3f3b50d8e6b44aa8e068b0de33426">
+        <dex dex="/Users/shashankmahajan/android/project/JavaDevelopersIndia/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_73286544783f2249d63ea1bb7b1ce27de9fdc4cb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shashankmahajan/.android/build-cache/2b3b314029bd2a4cec260d9aa96ed3b4d8f3b56a/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d6a04527c17597019dad82777c5094a3d60d1c33">
+        <dex dex="/Users/shashankmahajan/android/project/JavaDevelopersIndia/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_bea10c72dfbb81aaa396ab40d4a0a683512d3061/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shashankmahajan/.android/build-cache/bbb10e647160647101f18baf927271315ba8295d/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4b746ef0fd46acb5aaf3d9ab9a4cec22c28d3211">
+        <dex dex="/Users/shashankmahajan/android/project/JavaDevelopersIndia/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_207bb7e83f24b9e154a9f23720ef7bee15ab5602/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shashankmahajan/.android/build-cache/b378974bb550120e11a6575286bcd4a566b90c81/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="93c10d68ab5ea070f15782ae6d3a28d1f1d8f45e">
+        <dex dex="/Users/shashankmahajan/android/project/JavaDevelopersIndia/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f670b5501f29f05038c94ab4e68fa586ef750d6d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shashankmahajan/android/project/JavaDevelopersIndia/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="/Users/shashankmahajan/android/project/JavaDevelopersIndia/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_865a04a0415e9c3eca1c9e3ce5ba35cdb8cdc546/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shashankmahajan/.android/build-cache/7669ccf9ac173e7b47e6e8fe0a2d25d6dd92e47b/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a3e61044038fb54cddf6b8dc79f41d2b57f42caf">
+        <dex dex="/Users/shashankmahajan/android/project/JavaDevelopersIndia/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_4854821b0f260bd92e16ee3f8de6334f29185e42/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shashankmahajan/android/project/JavaDevelopersIndia/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="eff60423cc98eac47bdedc38d8bf1605d76e7050">
+        <dex dex="/Users/shashankmahajan/android/project/JavaDevelopersIndia/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_54694130fca7ad61f34ec3d5b78ff7d121ab5af2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shashankmahajan/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.0/support-annotations-25.3.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="dd84903d2e1af25a6081ef9038ad863cb14ca3a0">
+        <dex dex="/Users/shashankmahajan/android/project/JavaDevelopersIndia/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.3.0_75fbf71c58db555ac782fe2ff3c94521035f6523/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shashankmahajan/.android/build-cache/f2577ed7afded486552f8820ab8488fe5b3ae1ec/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fbb206f7a119f66ce171d95aae1225a5b209a8b7">
+        <dex dex="/Users/shashankmahajan/android/project/JavaDevelopersIndia/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_56b3fb33627902353d6d1835b31c097bd122ea01/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shashankmahajan/.android/build-cache/52a41e4998dcead71c5ecc5fbd8f641ef938920f/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/shashankmahajan/android/project/JavaDevelopersIndia/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ee384d2e920b131e0a6dac6eb05709fbfb326095/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shashankmahajan/.android/build-cache/7953cae6ebe53b48e3d980d4a832363189620b30/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="425c7b17887e5c3f8cbdf67ba171bc246f29b42c">
+        <dex dex="/Users/shashankmahajan/android/project/JavaDevelopersIndia/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e1dea0db3a7b3a845351c58ed6430206d0fa15ea/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shashankmahajan/.android/build-cache/1cd062ecf0524339a18a83b133026f3f2855cadb/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9ab787a20aae245b5b3651ae0b9c38459eb37715">
+        <dex dex="/Users/shashankmahajan/android/project/JavaDevelopersIndia/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_200118981c9667d7ed283bc09bc9a5b4461bb945/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shashankmahajan/.android/build-cache/1cbb53ab08090422b2456327fd5363e7d0c419b8/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="70f23cb87278f89aa51e6f57e8f0fd5266572d95">
+        <dex dex="/Users/shashankmahajan/android/project/JavaDevelopersIndia/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ab02042dafd57c020d8a3d82d18964a1c3538c24/classes.dex" />
+    </item>
+
+</items>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v4.widget.SwipeRefreshLayout
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/swipe_container"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    >
+    <android.support.v7.widget.RecyclerView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        tools:showIn="@layout/activity_main"
+        android:backgroundTint="#f2f2f2"
+        tools:context=".controller.MainActivity"
+        android:id="@+id/recycler_view"
+        />
+
+
+        <TextView
+            android:id="@+id/disconnected"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/internet"
+            android:textStyle="bold"
+            android:textSize="30sp"
+            />
+
+
+</android.support.v4.widget.SwipeRefreshLayout>
